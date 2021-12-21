@@ -8,7 +8,7 @@ int main(){
 	   */
 	int gaji,umr; 
 	
-	cout<<"-------- Cek UMR gaji --------"<<endl;
+	cout<<"-------- Cek UMR gaji --------"<<endl; 
 	cout<<""<<endl;
 	
 	cout<<"Masukan Gaji : ";cin>>gaji;
