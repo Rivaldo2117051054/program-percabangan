@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-	/* Nama : Rivaldo
+	/* Nama : Rivaldo 
 	   Kelas: B
 	   NPM  : 2117051054 
 	   */
