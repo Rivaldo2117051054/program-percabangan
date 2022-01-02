@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){   
 	/* Nama : Rivaldo    
-	   Kelas: B 
+	   Kelas: B  
 	   NPM  : 2117051054  
 	   */  
 	int gaji,umr;  
