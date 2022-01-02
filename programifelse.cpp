@@ -6,7 +6,7 @@ int main(){
 	   Kelas: B 
 	   NPM  : 2117051054  
 	   */ 
-	int gaji,umr; 
+	int gaji,umr;  
 	
 	cout<<"-------- Cek UMR gaji --------"<<endl; 
 	cout<<""<<endl;
