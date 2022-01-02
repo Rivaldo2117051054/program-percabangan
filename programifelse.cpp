@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main(){ 
 	/* Nama : Rivaldo    
 	   Kelas: B 
 	   NPM  : 2117051054  
