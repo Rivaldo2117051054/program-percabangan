@@ -5,7 +5,7 @@ int main(){
 	/* Nama : Rivaldo    
 	   Kelas: B 
 	   NPM  : 2117051054  
-	   */ 
+	   */  
 	int gaji,umr;  
 	
 	cout<<"-------- Cek UMR gaji --------"<<endl; 
