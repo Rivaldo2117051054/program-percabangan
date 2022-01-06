@@ -8,7 +8,7 @@ int main() {
     //memasukan angka sesuai urutan input
     cin>>tinggi;  
     cin>>berat; 
-    cin>>usia; 
+    cin>>usia;  
 if(tinggi>170 && berat>55 && usia>=15){
 	//jika semua benar maka akan lolos
         cout<<"Lolos"<<endl;
