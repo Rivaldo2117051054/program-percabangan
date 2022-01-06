@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     int tinggi,berat,usia;
     //memasukan angka sesuai urutan input
-    cin>>tinggi; 
+    cin>>tinggi;  
     cin>>berat; 
     cin>>usia; 
 if(tinggi>170 && berat>55 && usia>=15){
